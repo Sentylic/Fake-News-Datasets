@@ -7,3 +7,6 @@
 [submodule "CREDBANK-data"]
 	path = CREDBANK-data
 	url = git@github.com:tanumitra/CREDBANK-data.git
+[submodule "opensources"]
+	path = opensources
+	url = git@github.com:OpenSourcesGroup/opensources.git
